@@ -16,6 +16,8 @@ A code was written in juypter notebook that performed the following task:
 - merging datasets to maximize utility;
 - exporting data to a postgresql database.
 
+## Result
+
 1) In file 'ETL_function_test.ipynb' we create an ETL function to read the three data files.
 2) In file 'ETL_clean_wiki_movies.ipynb' we extract and transform the Wikipedia data 
 3) In file 'ETL_create_database.ipynb' we extract and transform the Kaggle data
